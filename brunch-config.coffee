@@ -23,7 +23,7 @@ exports.config =
                 'stylesheets/app.css': /^(app|vendor)/
                 'test/stylesheets/test.css': /^test/
             order:
-                before: []
+                before: ['app/styl/normalize.styl']
                 after: []
 
         # Ensure that our jade templates don't get compiled into our app JS.
