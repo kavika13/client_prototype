@@ -1,5 +1,5 @@
 module.exports = class Hello
-	constructor: (@helloWhat) ->
+    constructor: (@helloWhat) ->
 
-	echo: ->
-		console.log "Hello, #{@helloWhat}!"
+    echo: ->
+        console.log "Hello, #{@helloWhat}!"

@@ -1,7 +1,7 @@
 Hello = require 'hello'
 
 module.exports = class Application
-	constructor: ->
+    constructor: ->
 
-		hai = new Hello 'CoffeeScript'
-		hai.echo()
+        hai = new Hello 'CoffeeScript'
+        hai.echo()

@@ -14,7 +14,7 @@ Forked from [brunch-jade-stylus](https://github.com/TessaHarmon/brunch-jade-styl
 ## Features
 
  -
- 
+
 ## Plugins
 
 - [Brunch Auto-Reload](https://github.com/brunch/auto-reload-brunch)
@@ -29,4 +29,3 @@ brunch new gh:KATT/brunch-jade-stylus-coffee
 npm install
 brunch w -s
 ```
-
