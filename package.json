@@ -16,15 +16,15 @@
         "test": "brunch test"
     },
     "dependencies": {
-        "brunch": "~1.7.14",
-        "jade-brunch": "~1.5.1",
+        "brunch": "~1.7.19",
+        "jade-brunch": "~1.8.1",
         "javascript-brunch": ">= 1.0 < 1.8",
-        "coffee-script-brunch": "~1.7.3",
+        "coffee-script-brunch": "~1.8.1",
         "css-brunch": "~1.7.0",
-        "stylus-brunch": "~1.7.0",
+        "stylus-brunch": "~1.8.1",
         "static-jade-brunch": "~1.7.0",
-        "uglify-js-brunch": "~1.7.6",
+        "uglify-js-brunch": "~1.7.7",
         "clean-css-brunch": "~1.7.1",
-        "auto-reload-brunch": "~1.7.1"
+        "auto-reload-brunch": "~1.7.5"
     }
 }
